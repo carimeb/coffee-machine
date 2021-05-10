@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee_Machine.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee_Machine.iml" group="Coffee_Machine" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine-task.iml" group="Coffee_Machine/Coffee_Machine-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine-task_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine-task_main.iml" group="Coffee_Machine/Coffee_Machine-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine-task_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine-task_test.iml" group="Coffee_Machine/Coffee_Machine-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Floor-space of the room/Problems-Floor-space_of_the_room.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Floor-space of the room/Problems-Floor-space_of_the_room.iml" group="Coffee_Machine/Problems-Floor-space_of_the_room" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Floor-space of the room/Problems-Floor-space_of_the_room_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Floor-space of the room/Problems-Floor-space_of_the_room_main.iml" group="Coffee_Machine/Problems-Floor-space_of_the_room" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Floor-space of the room/Problems-Floor-space_of_the_room_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Floor-space of the room/Problems-Floor-space_of_the_room_test.iml" group="Coffee_Machine/Problems-Floor-space_of_the_room" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The army of units/Problems-The_army_of_units.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The army of units/Problems-The_army_of_units.iml" group="Coffee_Machine/Problems-The_army_of_units" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The army of units/Problems-The_army_of_units_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The army of units/Problems-The_army_of_units_main.iml" group="Coffee_Machine/Problems-The_army_of_units" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The army of units/Problems-The_army_of_units_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The army of units/Problems-The_army_of_units_test.iml" group="Coffee_Machine/Problems-The_army_of_units" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The number of digits/Problems-The_number_of_digits.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The number of digits/Problems-The_number_of_digits.iml" group="Coffee_Machine/Problems-The_number_of_digits" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The number of digits/Problems-The_number_of_digits_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The number of digits/Problems-The_number_of_digits_main.iml" group="Coffee_Machine/Problems-The_number_of_digits" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The number of digits/Problems-The_number_of_digits_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The number of digits/Problems-The_number_of_digits_test.iml" group="Coffee_Machine/Problems-The_number_of_digits" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="Coffee_Machine/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="Coffee_Machine/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="Coffee_Machine/util" />
+    </modules>
+  </component>
+</project>
